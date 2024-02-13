@@ -1,0 +1,16 @@
+C:/Users/Hadi/Desktop/SynchronousDownCounter/SynchronousDownCounter.v {1 {vlog -work work -vopt -stats=none C:/Users/Hadi/Desktop/SynchronousDownCounter/SynchronousDownCounter.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module Synchronous_Down_Counter
+-- Compiling module JK_FlipFlop
+
+Top level modules:
+	Synchronous_Down_Counter
+
+} {} {}} C:/Users/Hadi/Desktop/SynchronousDownCounter/SynchronousDownCounter_test.v {1 {vlog -work work -vopt -stats=none C:/Users/Hadi/Desktop/SynchronousDownCounter/SynchronousDownCounter_test.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module Synchronous_Down_Counter_tb
+
+Top level modules:
+	Synchronous_Down_Counter_tb
+
+} {} {}}

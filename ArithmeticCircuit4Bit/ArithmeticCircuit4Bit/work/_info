@@ -1,0 +1,150 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Hadi/Desktop/ArithmeticCircuit4Bit
+T_opt
+!s110 1705855656
+VAzfAR[dA94H0I]j?XI<TC0
+Z1 04 26 4 work ArithmeticCircuit4Bit_test fast 0
+=1-0800276e09db-65ad4aa8-105-a7c
+o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;2020.4;71
+R0
+T_opt1
+!s110 1705855840
+V@ToX9VgV7[=f0fm?cBM;j0
+R1
+=1-0800276e09db-65ad4b5f-2e6-15d8
+o-quiet -auto_acc_if_foreign -work work +acc
+R2
+n@_opt1
+R3
+vArithmeticCircuit4Bit
+Z4 !s110 1705855823
+!i10b 1
+!s100 >GN=X[mCRGNE6KXa]V3?n3
+Z5 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I[99fm=RcF>]@JBznUzodQ2
+R0
+Z6 w1705855638
+Z7 8C:/Users/Hadi/Desktop/ArithmeticCircuit4Bit/ArithmeticCircuit4Bit.v
+Z8 FC:/Users/Hadi/Desktop/ArithmeticCircuit4Bit/ArithmeticCircuit4Bit.v
+!i122 2
+L0 1 19
+Z9 VDg1SIo80bB@j0V0VzS_@n1
+Z10 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z11 !s108 1705855823.000000
+Z12 !s107 C:/Users/Hadi/Desktop/ArithmeticCircuit4Bit/ArithmeticCircuit4Bit.v|
+Z13 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Hadi/Desktop/ArithmeticCircuit4Bit/ArithmeticCircuit4Bit.v|
+!i113 0
+Z14 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+n@arithmetic@circuit4@bit
+vArithmeticCircuit4Bit_test
+!s110 1705855828
+!i10b 1
+!s100 o8gH8f]W8Ko@lb^d:db0h0
+R5
+IBH?i^JgL1?HWFk9LKAd]k2
+R0
+w1705855634
+8C:/Users/Hadi/Desktop/ArithmeticCircuit4Bit/ArithmeticCircuit4Bit_test.v
+FC:/Users/Hadi/Desktop/ArithmeticCircuit4Bit/ArithmeticCircuit4Bit_test.v
+!i122 3
+L0 1 48
+R9
+R10
+r1
+!s85 0
+31
+!s108 1705855828.000000
+!s107 C:/Users/Hadi/Desktop/ArithmeticCircuit4Bit/ArithmeticCircuit4Bit_test.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Hadi/Desktop/ArithmeticCircuit4Bit/ArithmeticCircuit4Bit_test.v|
+!i113 0
+R14
+R2
+n@arithmetic@circuit4@bit_test
+vFA
+R4
+!i10b 1
+!s100 UA;XDhdBWDmUT<WQLGj<T1
+R5
+I]k^60ikYQK0`OJhhGAQcf2
+R0
+R6
+R7
+R8
+!i122 2
+L0 60 5
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R2
+n@f@a
+vMUX4_1
+R4
+!i10b 1
+!s100 o@Kz@?:E7DHg5<H<JN4Nj3
+R5
+I5;=ijf32]8m6CDnI`gaG30
+R0
+R6
+R7
+R8
+!i122 2
+L0 46 13
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R2
+n@m@u@x4_1
+vTwoComplementCalculator
+R4
+!i10b 1
+!s100 ^=3R0lZ0:N1d?kI`ag;CM3
+R5
+I3mi]Yfjbi0H5V3Smo>IUZ0
+R0
+R6
+R7
+R8
+!i122 2
+L0 22 23
+R9
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R2
+n@two@complement@calculator

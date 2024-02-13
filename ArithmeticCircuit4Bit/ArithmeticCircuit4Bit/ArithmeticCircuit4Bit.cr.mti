@@ -1,0 +1,18 @@
+C:/Users/Hadi/Desktop/ArithmeticCircuit4Bit/ArithmeticCircuit4Bit_test.v {1 {vlog -work work -vopt -stats=none C:/Users/Hadi/Desktop/ArithmeticCircuit4Bit/ArithmeticCircuit4Bit_test.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module ArithmeticCircuit4Bit_test
+
+Top level modules:
+	ArithmeticCircuit4Bit_test
+
+} {} {}} C:/Users/Hadi/Desktop/ArithmeticCircuit4Bit/ArithmeticCircuit4Bit.v {1 {vlog -work work -vopt -stats=none C:/Users/Hadi/Desktop/ArithmeticCircuit4Bit/ArithmeticCircuit4Bit.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module ArithmeticCircuit4Bit
+-- Compiling module TwoComplementCalculator
+-- Compiling module MUX4_1
+-- Compiling module FA
+
+Top level modules:
+	ArithmeticCircuit4Bit
+
+} {} {}}
